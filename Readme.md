@@ -5,11 +5,13 @@ Esse projeto tem como objetivo validar a funcionalidade de pesquisa do blog http
 
 -> Automação: 
 Foram Criados 03 Cenários de testes, onde foram validados:
+
 . Busca Caixa alta
 . Busca Caixa baixa
 . Busca palavra incompleta
 
 -> O script:
+
 . Abre o navegador
 . Acessa o site
 . Localiza a lupa de pesquisa
