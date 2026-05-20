@@ -1,6 +1,6 @@
-#Projeto Teste QA Web
+# Projeto Teste QA Web
 
--> Objetivo:
+# Objetivo:
 
 Esse projeto tem como objetivo validar a funcionalidade de pesquisa do blog https://blog.agibank.com.br/
 
