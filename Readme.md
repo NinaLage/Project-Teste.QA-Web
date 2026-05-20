@@ -50,6 +50,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 --> Selenium
 
 Framework principal de automação web.
+
 --> WebDriver Manager 
 
 Responsável por baixar e gerenciar automaticamente o ChromeDriver.
