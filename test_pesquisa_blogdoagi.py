@@ -16,7 +16,7 @@ import time
 import traceback
 
 
-# Dados e Pastas Blog
+# Dados e Pastas do Blog
 
 URL = "https://blog.agibank.com.br/"
 
