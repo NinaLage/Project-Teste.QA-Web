@@ -33,7 +33,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 . Salva os screenshots
 
 
--> Tecnilogias Utilizadas:
+-> Tecnologias Utilizadas:
 
 . Python 3
 
@@ -48,8 +48,10 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 -> Bibliotecas Utilizadas (Necessário)
 
 --> Selenium
+
 Framework principal de automação web.
 --> WebDriver Manager 
+
 Responsável por baixar e gerenciar automaticamente o ChromeDriver.
 
 
