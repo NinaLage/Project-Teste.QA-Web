@@ -4,6 +4,7 @@ Projeto Teste QA Web
 
 Esse projeto tem como objetivo validar a funcionalidade de pesquisa do blog https://blog.agibank.com.br/
 
+
 -> Automação:
 
 Foram Criados 03 Cenários de testes, onde foram validados:
@@ -13,6 +14,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 . Busca Caixa baixa
 
 . Busca palavra incompleta
+
 
 -> O script:
 
@@ -29,6 +31,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 . Valida resultados
 
 . Salva os screenshots
+
 
 -> Tecnilogias Utilizadas:
 
