@@ -4,8 +4,7 @@
 
 Esse projeto tem como objetivo validar a funcionalidade de pesquisa do blog https://blog.agibank.com.br/
 
-
--> Automação:
+# Automação:
 
 Foram Criados 03 Cenários de testes, onde foram validados:
 
@@ -15,8 +14,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 
 . Busca palavra incompleta
 
-
--> O script:
+# O script:
 
 . Abre o navegador
 
@@ -32,8 +30,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 
 . Salva os screenshots
 
-
--> Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
 . Python 3
 
@@ -45,7 +42,7 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 
 . ChromeDriver
 
--> Bibliotecas Utilizadas (Necessário)
+# Bibliotecas Utilizadas (Necessário)
 
 --> Selenium
 
@@ -55,11 +52,8 @@ Framework principal de automação web.
 
 Responsável por baixar e gerenciar automaticamente o ChromeDriver.
 
+# Importante 
 
-# Instalação das Dependências
-
-Abra o terminal ou PowerShell e execute:
-
-```bash
-pip install selenium webdriver-manager
+Execute no terminal ou PowerShell:
+--> pip install selenium webdriver-manager
 
