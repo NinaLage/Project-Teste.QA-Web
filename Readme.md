@@ -15,18 +15,29 @@ Foram Criados 03 Cenários de testes, onde foram validados:
 -> O script:
 
 . Abre o navegador
+
 . Acessa o site
+
 . Localiza a lupa de pesquisa
+
 . Digita o texto
+
 . Executa a busca
+
 . Valida resultados
+
 . Salva os screenshots
 
 -> Tecnilogias Utilizadas:
+
 . Python 3
+
 . Selenium
+
 . WebDriver Manager
+
 . Google Chrome
+
 . ChromeDriver
 
 -> Bibliotecas Utilizadas (Necessário)
