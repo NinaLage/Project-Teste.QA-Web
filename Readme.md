@@ -1,9 +1,11 @@
 Projeto Teste QA Web
 
 -> Objetivo:
+
 Esse projeto tem como objetivo validar a funcionalidade de pesquisa do blog https://blog.agibank.com.br/
 
--> Automação: 
+-> Automação:
+
 Foram Criados 03 Cenários de testes, onde foram validados:
 
 . Busca Caixa alta
