@@ -4,6 +4,8 @@ Esse projeto tem como objetivo validar a funcionalidade de pesquisa do blog http
 Foram Criados 03 Casos de testes, onde foram validados:
 
 . Busca Caixa alta
+
 . Busca Caixa baixa
+
 . Busca palavra incompleta
 
